@@ -6,7 +6,7 @@
 
 👋 I'm Mushfiqur Rahman, a passionate software developer with 9+ full-stack JavaScript projects built and uploaded to GitHub with comments explaining every line of code. My journey is driven by my curiosity about tech, and it has led me to explore the exciting realms of software development, AI, and cloud functionalities, where I find immense satisfaction in working.
 
-💻 I'm fluent in C++, Python, JavaScript, and I'm always eager to learn and explore new technologies. My toolbox is stocked with essential tools like Node.js, Express.js, React, Bootstrap, Docker, MySQL, MongoDB, Postman, Git, Firebase, and serverless technologies.
+💻 I'm fluent in C++, Python, JavaScript, and I'm always eager to learn and explore new technologies. My toolbox is stacked with essential tools like Node.js, Express.js, React, Bootstrap, Docker, MySQL, MongoDB, Postman, Git, Firebase, and serverless technologies.
 
 ![Cat typing](https://gifdb.com/images/high/cat-typing-and-working-igyrsmi8wlo2s0gw.webp)
 
