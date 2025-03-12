@@ -1,20 +1,29 @@
 # Hi there, I'm Mushfiqur Rahman ⚡
 
-<h2>JavaScript Developer | Tech Enthusiast | 9+ Full-Stack JavaScript Projects</h2>
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=MushfiqurRahman12&color=blue)
 
-## About Me
+## 🚀 About Me
 
-👋 I'm Mushfiqur Rahman, a passionate software developer with 9+ full-stack JavaScript projects built and uploaded to GitHub with comments explaining every line of code. My journey is driven by my curiosity about tech, and it has led me to explore the exciting realms of software development, AI, and cloud functionalities, where I find immense satisfaction in working.
+I'm a **Backend Developer** and **Tech Enthusiast** passionate about building **Robust Backend Applications** and exploring **AI & Cloud Technologies**.I focus on **clean, documented code focused on memory management and performance**.
 
-💻 I'm fluent in C++, Python, JavaScript, and I'm always eager to learn and explore new technologies. My toolbox is stacked with essential tools like Node.js, Express.js, React, Bootstrap, Docker, MySQL, MongoDB, Postman, Git, Firebase, and serverless technologies.
+### 🛠 Tech Stack
 
-![Cat typing](https://gifdb.com/images/high/cat-typing-and-working-igyrsmi8wlo2s0gw.webp)
+💻 **Languages:** JavaScript, TypeScript, Python, C++, Go-Lang
 
-## Connect with Me!
+⚡**Backend:** Node.js, Express.js, Nest.js, Gin
 
-🌐 I'm always open to connecting with fellow developers and anyone who shares my passion for technology. Feel free to reach out if you have any questions, want to discuss exciting projects, or simply want to chat!
+🛢 **Database:** NoSQL, SQL, Prisma
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mushfiqur-rahman-560a002bb/)
-- [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:mushfiqurniaz33@gmail.com)
+🐳 **Others:** Docker, Git, Cloudinary, Postman, System Designs
 
-**P.S. I'm always learning and growing, so this page may not always be updated.**
+### 📈 GitHub Stats
+
+![nia3zzz's Stats](https://github-readme-stats.vercel.app/api?username=nia3zzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mushfiqur-rahman-560a002bb/)
+
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:mushfiqurniaz33@gmail.com)
+
+🚀 _Always learning, always growing!_
