@@ -19,7 +19,9 @@ I'm a **Backend Developer** and **Tech Enthusiast** passionate about building **
 ### 📈 GitHub Stats
 
 ![nia3zzz's Stats](https://github-readme-stats.vercel.app/api?username=nia3zzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<br/>
 ![nia3zzz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nia3zzz&theme=vue-dark&hide_border=true)
+<br/>
 ![nia3zzz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nia3zzz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📬 Connect with Me
